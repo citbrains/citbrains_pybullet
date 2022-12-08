@@ -7,7 +7,7 @@ https://github.com/citbrains/SUSTAINA-OP
 VIDEO  
 [![IMAGE](http://img.youtube.com/vi/iXAvYs80RxA/0.jpg)](https://youtu.be/iXAvYs80RxA)
 
-### Preparation of the development environment
+### Install and execute
 
 Ubuntu2004  
 ```
@@ -15,9 +15,9 @@ sudo apt install python3-pip
 pip install pybullet
 pip install numpy
 pip install control
-git clone https://github.com/citbrains/GankenKun_pybullet
-cd GankenKun_pybullet
-python GankenKun.py
+git clone https://github.com/citbrains/citbrains_pybullet
+cd citbrains_pybullet
+python3 walking_sample.py
 ```
 
 [Microsoft Windows](https://github.com/citbrains/GankenKun_pybullet/wiki/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%BA%96%E5%82%99) (in Japanese)
