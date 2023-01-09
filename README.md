@@ -1,6 +1,8 @@
 # citbrains_pybullet  
 PyBullet simulator for SUSTAINA-OP  
 
+![LICENSE](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 SUSTAINA-OP is desinged by Masato Kubotera  
 https://github.com/citbrains/SUSTAINA-OP
 
@@ -43,3 +45,7 @@ Generating the trajectory of the center of mass from the footsteps based on the 
 
 - walking.py  
 Calculating the trajectory of the foot from the goal position  
+
+### License
+
+SUSTAINA-OP by [Masato Kubotera](https://github.com/MasatoKubotera), [CIT Brains](https://github.com/citbrains) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).  
