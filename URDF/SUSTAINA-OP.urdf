@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
-<!-- SUSTAINA-OP is designed by Msato Kubotera https://github.com/citbrains/SUSTAINA-OP -->
-<!-- This URDF is made by Yasuo Hayashibara -->
+<!-- SUSTAINA-OP is designed by Masato Kubotera https://github.com/citbrains/SUSTAINA-OP -->
+<!-- SUSTAINA-OP by Masato Kubotera, CIT Brains is licenced under CC BY NC SA 4.0 -->
+<!-- This URDF is made based on the 3D CAD files of SUSTAINA-OP by Yasuo Hayashibara -->
 <robot name="SUSTAINA-OP" xmlns:xacro="http://www.ros.org/wiki/xacro">
   <material name="black">
     <color rgba="0.0 0.0 0.0 1.0"/>
