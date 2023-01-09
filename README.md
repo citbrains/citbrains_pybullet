@@ -4,7 +4,9 @@ PyBullet simulator for SUSTAINA-OP
 ![LICENSE](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
 SUSTAINA-OP is desinged by Masato Kubotera  
-https://github.com/citbrains/SUSTAINA-OP
+https://github.com/citbrains/SUSTAINA-OP  
+
+The URDF file is made based on the 3D CAD files of SUSTAINA-OP by Yasuo Hayashibara  
 
 VIDEO  
 [![IMAGE](http://img.youtube.com/vi/iXAvYs80RxA/0.jpg)](https://youtu.be/iXAvYs80RxA)
